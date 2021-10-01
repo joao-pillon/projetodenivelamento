@@ -1,0 +1,35 @@
+.form{
+   margin-left:150px;
+   margin-right:150px;
+   list-style:none;
+
+}
+
+li{
+    font-size: 12px;
+    padding:10px;
+}
+
+.produtos{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.068);
+}
+
+#code{
+    color: rgb(81, 104, 96);
+}
+
+#name{
+font-size: 14px;
+padding:10px;
+}
+
+#description{
+    color: rgb(63, 63, 63);
+}
+
+#price{
+    color: rgb(77, 71, 53);
+}
+
+#discount{color:green}
